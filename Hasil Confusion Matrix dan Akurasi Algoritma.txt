@@ -1,0 +1,64 @@
+Random Forest: 
+Balanced Accuracy = 0.5476420631504738 (0.55)
+Confusion Matrix =
+TN 46332 FP 131
+FN 2473   TP 269
+F1 Score (Micro): 0.9470785489279545
+F1 Score (Macro): 0.5719475497806356
+F1 Score (Weighted): 0.928005609692494
+
+KNearest Neighbor (RENTANG NILAI K 2-10):
+Nilai K = 2
+Balanced Accuracy = 0.5080604594861039
+Confusion Matrix =
+TN 46297  FP 166
+FN 2688   TP 54
+F1 Score (Micro): 0.9419977644548319
+F1 Score (Macro): 0.5032803760606155
+F1 Score (Weighted): 0.9180710024902056
+
+Nilai K = 4
+Balanced Accuracy = 0.5063786470848635
+Confusion Matrix =
+TN 46361  FP 102
+FN 2701   TP 41
+F1 Score (Micro): 0.9430342444873488
+F1 Score (Macro): 0.4995398865251186
+F1 Score (Weighted): 0.9181499215956425
+
+Nilai K = 6
+Balanced Accuracy = 0.5052970942754493
+Confusion Matrix =
+TN 46413  FP 50
+FN 2710   TP 32
+F1 Score (Micro): 0.9439081394167259
+F1 Score (Macro): 0.49689418407249536
+F1 Score (Weighted): 0.9182714105575885
+
+Nilai K = 8
+Balanced Accuracy = 0.5023053723382603
+Confusion Matrix =
+TN 46440  FP 23
+FN 2728   TP 14
+F1 Score (Micro): 0.9440910476577583
+F1 Score (Macro): 0.4906543721383729
+F1 Score (Weighted): 0.9176716661198284
+
+Nilai K = 10
+Balanced Accuracy = 0.5009649568930663
+Confusion Matrix =
+TN 46451  FP 12
+FN 2736   TP 6
+F1 Score (Micro): 0.9441520170714358
+F1 Score (Macro): 0.4878090411145708
+F1 Score (Weighted): 0.917387494162479
+
+
+Decision Tree: 
+Balanced Accuracy = 0.5751606146129499 (0.6)
+Confusion Matrix = 
+TN 46178  FP 285
+FN 2313   TP 429
+F1 Score (Micro): 0.9472004877553094
+F1 Score (Macro): 0.6104516360846071
+F1 Score (Weighted): 0.9322728025340329
